@@ -1,0 +1,23 @@
+{
+  "name": "tarea-clase-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ethanzito/tarea-clase-9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanzito/tarea-clase-9/issues"
+  },
+  "homepage": "https://github.com/ethanzito/tarea-clase-9#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.2"
+  }
+}
